@@ -16,9 +16,13 @@ The app uses basic Java features like `ArrayList`, `Scanner`, `switch` statement
 ## 📌 Features  
 
 ✅ Add a new task  
+
 ✅ View all tasks  
+
 ✅ Remove a task by selecting its number  
-✅ Runs in a loop until the user chooses to exit  
+
+✅ Runs in a loop until the user chooses to exit 
+
 ✅ Input validation and error handling  
 
 ---
