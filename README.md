@@ -9,7 +9,7 @@
 
 The app uses basic Java features like `ArrayList`, `Scanner`, `switch` statements, and user input handling.
 
-![Weather App]() 
+![Program Preview](java-Todo.png) 
 
 ---
 
